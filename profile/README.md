@@ -1,7 +1,7 @@
 ## Hi there 👋
 We are a studio that makes music, art, stories, and games. We also catch moths and make them into jelly.
 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B21KRAYB)
 
 <!--
 
