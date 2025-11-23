@@ -9,8 +9,6 @@ We are a studio that makes music, art, stories, and games. We also catch moths a
   <div>Buy us a coffee!</div>
 </div>
 
-
-<br>
 <br>
 
 Check out our <a href="https://linktr.ee/mothjellystudios" target="_blank">Linktree</a> for more cool stuff!
