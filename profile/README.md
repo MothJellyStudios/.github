@@ -11,7 +11,7 @@ We are a studio that makes music, art, stories, and games. We also catch moths a
 
 <br>
 
-Check out our <a href="https://mothjellystudios" target="_blank">website</a> for more cool stuff!
+Check out our <a href="https://mothjellystudios.com" target="_blank">website</a> for more cool stuff!
 
 <!--
 
